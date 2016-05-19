@@ -1,7 +1,5 @@
 package main
 
-// Endpoint: first level metric name, host/instance/controller/component_name/time/collector
-
 import (
 	"fmt"
 	"net"
